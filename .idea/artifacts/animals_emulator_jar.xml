@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="animals_emulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/animals_emulator_jar</output-path>
+    <root id="archive" name="animals_emulator.jar">
+      <element id="module-output" name="animals_emulator" />
+    </root>
+  </artifact>
+</component>
