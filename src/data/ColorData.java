@@ -1,7 +1,7 @@
 package data;
 
 public enum ColorData {
-    WHITE("Белый"), RED("Рыжий"), DARK("Чёрный");
+    WHITE("Белый"), RED("Рыжий"), DARK("Чёрный"), GRAY("Серый");
     private String name;
 
     ColorData(String name) {
