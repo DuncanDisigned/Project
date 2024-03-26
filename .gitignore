@@ -3,14 +3,13 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
+/.idea
 
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.iml
 
